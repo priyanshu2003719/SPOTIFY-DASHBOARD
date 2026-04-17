@@ -158,8 +158,6 @@ For producers and songwriters, understanding that **120 BPM** and **Major keys**
 #### **D) Catalog Valuation**
 The data on **Legacy vs. Viral** tracks has a direct impact on the valuation of music catalogs. Investors and labels can see that "old" music is not a declining asset but a massive revenue engine that accounts for half of all streaming activity, justifying higher acquisition prices for classic catalogs.
 
-
-
 ---
 
 ### **Summary Table: From Data to Action**
@@ -173,5 +171,6 @@ The data on **Legacy vs. Viral** tracks has a direct impact on the valuation of 
 
 By implementing these insights, a music organization moves from a **reactive** culture to a **proactive, data-driven powerhouse**, maximizing both cultural impact and financial growth.
 
+## 🟢 PROJECT DASHBOARD:
 
-
+![DASHBOARD PREVIEW](https://github.com/priyanshu2003719/Spotify-Dashboard/blob/main/Spotify%20dashboard.png).
