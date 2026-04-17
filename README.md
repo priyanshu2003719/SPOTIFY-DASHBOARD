@@ -1,5 +1,6 @@
 # Spotify Music Analysis
 
+
 ## 🟢 PROJECT DESCRIPTION: 
 The Spotify Music Analysis project is a data-driven exploration of the most-streamed songs on the Spotify platform throughout 2023. This project leverages a comprehensive dataset of nearly 1,000 tracks to examine the relationship between a song’s technical musical attributes—such as tempo (BPM), energy, and danceability—and its commercial performance across global streaming charts (Spotify, Apple Music, Deezer, and Shazam). Through the use of advanced data visualization and Power BI modeling, the project transforms raw streaming figures into actionable insights regarding modern music trends.
 
