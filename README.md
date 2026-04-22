@@ -25,13 +25,13 @@ The workflow follows a standard data pipeline:
 
 ## 🟢 PROJECT DESCRIPTION:
 
-This is a high-impact, professional documentation layout for your **Spotify Global Tracks Analysis** project. It is designed to showcase your ability to blend data engineering, acoustic analysis, and business intelligence into a single cohesive story.
+**This is a high-impact, professional documentation layout for your **Spotify Global Tracks Analysis** project. It is designed to showcase your ability to blend data engineering, acoustic analysis, and business intelligence into a single cohesive story.**
 
 ---
 
 # 🎵 Spotify Global Tracks Analytics
-> **Decoding the DNA of Viral Music through Data Science**
-> An advanced analytical deep-dive into the technical and platform-specific features that drive global song popularity. This project explores the synergy between acoustic attributes (BPM, Danceability, Energy) and cross-platform performance (Spotify, Apple Music, Deezer).
+ **Decoding the DNA of Viral Music through Data Science**
+**An advanced analytical deep-dive into the technical and platform-specific features that drive global song popularity. This project explores the synergy between acoustic attributes (BPM, Danceability, Energy) and cross-platform performance (Spotify, Apple Music, Deezer).**
 
 ---
 
